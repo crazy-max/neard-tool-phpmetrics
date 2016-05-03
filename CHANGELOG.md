@@ -1,7 +1,7 @@
 # Changelog
 
-## r1 (2016/05/01)
+### [Check compatibility with Neard](https://github.com/crazy-max/neard/wiki/toolPhpMetrics#latest) before downloading.
 
-This release works since **[Neard 1.0.19](https://github.com/crazy-max/neard/releases/tag/v1.0.19)**
+## r1 (2016/05/01)
 
 * Add bundles : 1.0.1, 1.1.1, 1.9.2
