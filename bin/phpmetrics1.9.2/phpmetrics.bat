@@ -1,1 +1,1 @@
-@php "%~dp0phpmetrics.phar" %*
+@php "%~dp0bin\phpmetrics" %*
