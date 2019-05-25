@@ -5,7 +5,7 @@ This a module of [Neard project](https://github.com/neard/neard) involving PhpMe
 
 ## Documentation and downloads
 
-http://neard.io/modules/phpmetrics
+https://neard.io/modules/phpmetrics
 
 ## Issues
 
